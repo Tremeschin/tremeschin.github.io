@@ -14,6 +14,6 @@ Here you'll find a collection of projects that I work on, a blog sharing my intr
 
 Main language is :flag_us: English, but some subpages can be in :flag_br: Portuguese!
 
-_Feel free to explore around as you please!_
+_Feel free to explore around as you please._
 
 <small><b>Note:</b> Absolutely nothing is written with LLMs directly, [read more](#).</small>
