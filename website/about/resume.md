@@ -2,14 +2,19 @@
 title: Resume
 icon: material/certificate
 tags:
+- About
 - Resume
 - Contact
 - Work
 ---
 
-Thanks for the interest in my work, I'm always open for new opportunities!
+!!! bug "Thanks for the interest in my work, I'm always open for new opportunities!"
 
-!!! success "For privacy and data protection reasons, you can [email me](mailto:resume@tremeschin.com) a resume request for manual review, and I'll send a custom file with relevant information for the position on a good-faith basis."
+## Request
+
+!!! success "For privacy and data protection reasons, you can email me a resume request for manual review, and I'll send a custom file with relevant information for the position on a good-faith basis."
+
+Simply send an email to [resume@tremeschin.com](mailto:resume@tremeschin.com), following the guidelines below.
 
 ## Guidelines
 
@@ -18,15 +23,11 @@ For strengthtening our trust relationship, please:
 - :material-account-check: **Include** a copy of your resume too (preferable), company and profile names I can search and unambiguously verify, relevant job openings, anything proving identity.
 - :material-chat-processing: **Describe** the general area of interest, how you found about me, work type, etc.
 - :material-web-off: **External** links and trackers will not be seen, attach images and files directly.
-- :material-text-short: **Direct** and human text, corporate speak and syncophancy are auto-ignored.
+- :material-text-short: **Direct** and human text, corporate speak, Ai and syncophancy are auto-ignored.
 
 <small>
     <b>Note</b>: Failing to meet the criteria above may result in a rejection, ghosting or blocking.
 </small>
-
-## Request
-
-Simply send an email to [resume@tremeschin.com](mailto:resume@tremeschin.com), following the guidelines above!
 
 ## Content
 

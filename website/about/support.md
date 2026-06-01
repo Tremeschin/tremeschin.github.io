@@ -2,9 +2,10 @@
 title: Support
 icon: material/heart
 tags:
-- Donation
+- About
 - Support
 - Sponsor
+- Donation
 - Patreon
 ---
 

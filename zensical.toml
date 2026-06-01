@@ -2,12 +2,14 @@
 site_name = "Tremeschin"
 site_description = "Projects, blog, funsies, and more."
 site_url  = "https://tremeschin.com/"
-repo_url  = "https://github.com/Tremeschin/tremeschin.github.io"
+repo_url  = "https://github.com/Tremeschin/"
 copyright = "&copy; CC BY-SA 4.0, <a href='https://github.com/Tremeschin/'>Tremeschin</a> 🇧🇷"
 docs_dir  = "website"
 nav = [
   {Home = [
     "index.md",
+    "about/contributing.md",
+    "about/security.md",
     "about/resume.md",
     "about/support.md",
   ]},
@@ -19,35 +21,17 @@ nav = [
   ]},
 ]
 
-extra_css = ["assets/main.css"]
 extra_javascript = [
-    "assets/mathjax.js",
-    "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"
+  "assets/mathjax.js",
+  "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"
 ]
 
 [project.theme]
-variant = "modern"
-language = "en"
-features = [
-  "announce.dismiss",
-  "content.code.annotate",
-  "content.code.copy",
-  "content.footnote.tooltips",
-  "content.tabs.link",
-  "content.tooltips",
-  "navigation.expand",
-  "navigation.footer",
-  "navigation.indexes",
-  "navigation.path",
-  "navigation.tabs",
-  "navigation.top",
-  "search.highlight",
-  "toc.follow",
-]
+name = "zentheme"
 
 [project.theme.icon]
 logo = "octicons/package-16"
-repo = "fontawesome/brands/github"
+admonition.bug = "octicons/heart-fill-16" # Fixme
 
 [[project.theme.palette]]
 toggle.icon = "lucide/sun"
