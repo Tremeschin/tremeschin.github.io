@@ -21,33 +21,12 @@ nav = [
   ]},
 ]
 
-extra_javascript = [
-  "assets/mathjax.js",
-  "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"
-]
-
 [project.theme]
 name = "zentheme"
 
 [project.theme.icon]
 logo = "octicons/package-16"
 admonition.bug = "octicons/heart-fill-16" # Fixme
-
-[[project.theme.palette]]
-toggle.icon = "lucide/sun"
-toggle.name = "Switch to dark mode"
-media       = "(prefers-color-scheme: light)"
-scheme      = "default"
-primary     = "blue"
-accent      = "light-blue"
-
-[[project.theme.palette]]
-toggle.icon = "lucide/moon"
-toggle.name = "Switch to light mode"
-media       = "(prefers-color-scheme: dark)"
-scheme      = "slate"
-primary     = "orange"
-accent      = "orange"
 
 [[project.extra.social]]
 name = "GitHub"
