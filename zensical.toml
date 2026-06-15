@@ -8,16 +8,13 @@ docs_dir  = "website"
 nav = [
   {Home = [
     "index.md",
+    "resume.md",
     "about/contributing.md",
     "about/security.md",
-    "about/resume.md",
     "about/support.md",
   ]},
   {Projects = [
-    "projects/index.md",
-    "projects/apps.md",
-    "projects/libs.md",
-    "projects/feeds.md",
+    "projects.md",
   ]},
 ]
 

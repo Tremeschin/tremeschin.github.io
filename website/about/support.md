@@ -45,7 +45,7 @@ I also have a _Patreon_ page, there's not much currently, but future plans:
 
 Check my resume page whether you think my experience and skills could be a good fit for your project or company. I am open to freelance work, consulting, full-time positions, anything.
 
-[Resume](./resume.md){.md-button .md-button--primary}
+[Resume](../resume.md){.md-button .md-button--primary}
 
 <hr>
 
