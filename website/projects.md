@@ -1,5 +1,6 @@
 ---
 title: Projects
+icon: octicons/package-16
 tags:
 - Meta
 - Projects
