@@ -8,16 +8,19 @@ docs_dir  = "website"
 nav = [
   {Home = [
     "index.md",
-    "projects.md",
     "resume.md",
-    "about/contributing.md",
-    "about/security.md",
     "about/support.md",
+  ]},
+  {Projects=[
+    "projects/index.md",
+    "projects/contributing.md",
+    "projects/security.md",
   ]},
 ]
 
 [project.theme]
 name = "zentheme"
+favicon = "assets/logo.svg"
 
 [project.theme.icon]
 logo = "octicons/package-16"
