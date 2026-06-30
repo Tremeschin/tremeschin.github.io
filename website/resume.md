@@ -55,6 +55,13 @@ Send my resume file below to verify its origin and status, using a local hash ch
 
 </div>
 
+<!-- Prototype -->
+<div class="file-prototype" style="display: none" markdown>
+
+!!! info "Prototype - Contents may not be fully reviewed or complete (new)"
+
+</div>
+
 <!-- Input -->
 <input type="file" id="file-upload" accept="application/pdf" hidden>
 <label class="md-button" for="file-upload">
@@ -63,8 +70,19 @@ Send my resume file below to verify its origin and status, using a local hash ch
 
 <!-- Logic -->
 <script>
-    const originalHashes = [];
-    const recalledHashes = [];
+    const originalHashes  = [];
+    const recalledHashes  = [];
+    const prototypeHashes = [];
+
+    // Always original, single line status
+    function release(value, ...status) {
+        originalHashes.push(value);
+        for (const array of status) {
+            array.push(value);
+        }
+    }
+
+    release("1418a3da2c6cab33ae5e2b65cdb6abb9e92398c56a0e9e6c89da20b7b669e378", prototypeHashes);
 
     document.getElementById("file-upload").addEventListener("change", async (input) => {
         const file = input.target.files[0];
@@ -73,11 +91,13 @@ Send my resume file below to verify its origin and status, using a local hash ch
         const genuineDiv = document.querySelector(".file-genuine");
         const invalidDiv = document.querySelector(".file-invalid");
         const staleDiv   = document.querySelector(".file-stale");
+        const protoDiv   = document.querySelector(".file-prototype");
 
         // Will show a new result
         genuineDiv.style.display = "none";
         invalidDiv.style.display = "none";
         staleDiv.style.display   = "none";
+        protoDiv.style.display   = "none";
 
         try {
             const digest = await crypto.subtle.digest("SHA-256", await file.arrayBuffer())
@@ -97,6 +117,9 @@ Send my resume file below to verify its origin and status, using a local hash ch
             // Status
             if (recalledHashes.includes(hash)) {
                 staleDiv.style.display = "block";
+            }
+            if (prototypeHashes.includes(hash)) {
+                protoDiv.style.display = "block";
             }
 
         } catch (error) {
