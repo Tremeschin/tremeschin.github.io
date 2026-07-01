@@ -11,7 +11,7 @@ tags:
 
 !!! bug "Thanks for considering supporting my work!"
 
-## Donations
+## :fontawesome-solid-donate: Donations
 
 <div align="center">
     <img width="60%" src="https://github.com/user-attachments/assets/910ca461-e954-45d8-9441-765438f93856"/>
@@ -21,7 +21,7 @@ tags:
 
 <small>:white_check_mark: <b>Donations</b> are a direct way to return the favor in how much you value the project, at your own pace and option.</small>
 
-### GitHub
+### :simple-github: GitHub
 
 You can support me via _GitHub Sponsors_, either with a one-time or recurring donation:
 
@@ -30,25 +30,25 @@ You can support me via _GitHub Sponsors_, either with a one-time or recurring do
 
 [Sponsors Profile](https://github.com/sponsors/Tremeschin/){.md-button .md-button--primary}
 
-### Patreon
+### :simple-patreon: Patreon
 
 I also have a _Patreon_ page, there's not much currently, but future plans:
 
 - **Discord** roles integration for members and priority support.
 - Might offer executable releases for projects or pack/assets.
 
-[Patreon Page](https://www.patreon.com/Tremeschin){.md-button .md-button--primary}
+[Patreon Page](https://www.patreon.com/Tremeschin){.md-button}
 
 <hr>
 
-## Hire me
+## :fontawesome-solid-graduation-cap: Hire me
 
 Check my resume page whether you think my experience and skills could be a good fit for your project or company. I am open to freelance work, consulting, full-time positions, anything.
 
-[Resume](../resume.md){.md-button .md-button--primary}
+[Resume](./resume.md){.md-button}
 
 <hr>
 
-## Sponsorships
+## :material-recycle: Sponsor
 
 Get in touch for collaborations that helps both sides!
