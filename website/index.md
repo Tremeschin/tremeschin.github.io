@@ -1,19 +1,29 @@
 ---
+title: Homepage
 tags:
 - Meta
 - Home
 ---
 
-<h1><i>Hey there, internet hitchhiker!</i></h1>
+<div align="center">
+  <img alt="Artist Logo" src="./assets/logo.svg" width="140">
+  <h1><i>Hey there, internet hitchhiker!</i></h1>
+</div>
 
--> Welcome to the mostly personal, yet mainly professional website from [Tremeschin](https://github.com/Tremeschin).
+## :material-web: Website
 
-Here you'll find a collection of projects that I work on, a blog sharing my intrusive or worthy thoughts, and meta information such as contact, resume, support, and more (WIP).
+_Feel free to explore around as you please • Most contents are hosted in linked subdomains._
 
-!!! success "Most of the contents are hosted in linked subdomains"
+## :fontawesome-solid-user: About me
 
-Main language is :flag_us: English, but some subpages can be in :flag_br: Portuguese!
+I'm an Open Source developer, Electrical Engineer[^degree], and Music Producer[^music] from :flag_br: Brazil.
 
-_Feel free to explore around as you please._
+[^degree]: Would've chosen a Computer Science degree nowadays, but coding on free time and practical experience in writing projects with passion got me very far, together with EE's strong foundation on analytical thinking.
 
-<small><b>Note:</b> Absolutely nothing is written with LLMs directly, [read more](#).</small>
+[^music]: I will get back to it one day, I promise :skull:
+
+Ever since I started using Linux in July 2018, which I consider to be one of my best decisions in life, I've changed my perspective on the world and started producing more than consuming.
+
+Slowly learning lessons through failure and persistence, these days I maintain _multiple_ [#projects](./projects/index.md) for the community, and consider myself a generalist that enjoys pushing the state of the art and challenging conventions when I identify a better approach - genuine by nature.
+
+-> _The impossible only exists when one doesn't try ~~hard~~ smart enough._

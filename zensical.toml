@@ -9,7 +9,7 @@ nav = [
   {Home = [
     "index.md",
     "resume.md",
-    "about/support.md",
+    "support.md",
   ]},
   {Projects=[
     "projects/index.md",

@@ -13,6 +13,8 @@ tags:
     ol li {line-height: 1.2}
 </style>
 
+This page is about my private resume file with personal information, certificates, direct contact not seen publicly. You can also alternatively check the [:octicons-package-16: Projects](./projects/index.md) tab for my best work!
+
 ## :material-magnify-scan: Validate
 
 Send my resume file below to verify its origin and status, using a local hash check:
@@ -165,3 +167,18 @@ Made with [Typst](https://typst.app/) on a modern and elegant presentation:
 [^gpa]: **Note**: In :flag_br: Brazil, the scale is from 0 to 10, simply multiply by 0.4 for :flag_us: USA equivalence.
 
 <small><b>Note</b>: I may send a partial document when in doubt about legitimacy.</small>
+
+<hr>
+
+## :material-linkedin: Linkedin
+
+!!! info "For many personal reasons, I prefer maintaining this website and the [#resume](#content) file as portfolios."
+
+Regardless • I do have a profile, _**feel free to send a connection request!**_ just beware its contents may not be fully up to date, and I may take a while to respond:
+
+<a href="https://www.linkedin.com/in/tremeschin/">
+    <label class="md-button">
+        :fontawesome-solid-user: Go to profile
+    </label>
+</a>
+
