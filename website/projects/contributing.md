@@ -1,6 +1,8 @@
 ---
 title: Contributing
 icon: material/source-pull
+description: Guidance on contributing to the projects, including information on documentation
+  improvements, developer experience focus, and preferred communication channels.
 tags:
 - About
 - Contributing

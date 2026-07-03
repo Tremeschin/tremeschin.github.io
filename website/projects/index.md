@@ -1,6 +1,8 @@
 ---
 title: Projects
 icon: octicons/package-16
+description: Compilation of all projects from Tremeschin, which are hosted on website
+  subdomains, including applications, libraries, channels, and music productions.
 tags:
 - Meta
 - Projects

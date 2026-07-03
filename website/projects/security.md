@@ -1,6 +1,8 @@
 ---
 title: Security
 icon: material/security
+description: Details of security checks I take on my Open Source projects, package registries
+  publishing, dependencies used, and how to report issues directly to me, for user integrity.
 tags:
 - About
 - Security

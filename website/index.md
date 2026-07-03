@@ -1,5 +1,7 @@
 ---
 title: Homepage
+description: Personal website from Tremeschin, a creator of popular Open Source projects
+  like DepthFlow and nvibrant. Find my resume, blog, and on supporting my work here.
 tags:
 - Meta
 - Home

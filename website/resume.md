@@ -1,6 +1,8 @@
 ---
 title: Resume
 icon: material/certificate
+description: View my resume or verify a file's genuineness you received, containing my best
+  work, academic and work experience, direct contact and personal information not seem publicly.
 tags:
 - About
 - Resume
@@ -181,4 +183,3 @@ Regardless • I do have a profile, _**feel free to send a connection request!**
         :fontawesome-solid-user: Go to profile
     </label>
 </a>
-

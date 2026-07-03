@@ -1,9 +1,7 @@
 [project]
 site_name = "Tremeschin"
-site_description = "Projects, blog, funsies, and more."
 site_url  = "https://tremeschin.com/"
 repo_url  = "https://github.com/Tremeschin/"
-copyright = "&copy; CC BY-SA 4.0, <a href='https://github.com/Tremeschin/'>Tremeschin</a> 🇧🇷"
 docs_dir  = "website"
 nav = [
   {Home = [

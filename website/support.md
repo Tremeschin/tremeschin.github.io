@@ -1,6 +1,8 @@
 ---
 title: Support
 icon: material/heart
+description: Support my work on Open Source with donations, consulting, freelancing work,
+  or hire me into company positions, to ensure sustainability to keep it all going.
 tags:
 - About
 - Support
