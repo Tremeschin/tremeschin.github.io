@@ -1,8 +1,8 @@
 [project]
 site_name = "Tremeschin"
-site_url  = "https://tremeschin.com/"
-repo_url  = "https://github.com/Tremeschin/"
-docs_dir  = "website"
+site_url = "https://tremeschin.com/"
+repo_url = "https://github.com/Tremeschin/"
+docs_dir = "website"
 nav = [
   {Home = [
     "index.md",
@@ -22,7 +22,11 @@ favicon = "assets/logo.svg"
 
 [project.theme.icon]
 logo = "octicons/package-16"
+tag.default = "material/tag"
 admonition.bug = "octicons/heart-fill-16" # Fixme
+
+[project.extra.tags]
+dummy = "key"
 
 [[project.extra.social]]
 name = "GitHub"
