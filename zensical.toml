@@ -12,6 +12,7 @@ nav = [
   {Blog = [
     "blog/index.md",
     "blog/minimalism.md",
+    "blog/money.md",
   ]},
   {Projects=[
     "projects/index.md",

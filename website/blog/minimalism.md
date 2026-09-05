@@ -1,5 +1,5 @@
 ---
-date: 2026-9-4
+date: 1970-1-1
 title: Minimalism
 description: Optimization is the art of doing nothing. Fine organization is not having things to organize. Avoid haunting language with useless words. Simple mottos, great results.
 draft: true
@@ -12,7 +12,7 @@ categories:
 
 # Deliberate Limitations
 
-!!! warning "**Sketch** writing • not ready"
+!!! warning "**Sketch** writing • not complete or ready"
 
 Optimization is the art of doing nothing. Fine organization is not having things to organize. Avoid haunting language with useless words. Simple mottos, great results.
 
