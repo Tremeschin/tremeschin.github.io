@@ -9,6 +9,10 @@ nav = [
     "resume.md",
     "support.md",
   ]},
+  {Blog = [
+    "blog/index.md",
+    "blog/minimalism.md",
+  ]},
   {Projects=[
     "projects/index.md",
     "projects/contributing.md",

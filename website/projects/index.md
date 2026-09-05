@@ -8,8 +8,6 @@ tags:
 - Projects
 ---
 
-!!! success "Sections are intentionally minimal, linking to full individual pages"
-
 ## :octicons-apps-16: Applications
 
 - **[:octicons-package-16: DepthFlow](https://depth.tremeschin.com)**: Images to 3D Parallax effect video.
@@ -20,7 +18,8 @@ tags:
 ## :octicons-package-16: Libraries
 
 - **[:simple-rust: Rustbin](https://github.com/BrokenSource/Rustbin)**: Fast rustup shims for python.
-- **[:material-clock-fast: TurboPipe](https://github.com/BrokenSource/TurboPipe)**: Fast ModernGL Buffers data transfers for subprocesses.
+- **[:material-clock-fast: TurboPipe](https://github.com/BrokenSource/TurboPipe)**: Fast data piping for python
+- **[:material-crystal-ball: Delusion](https://github.com/BrokenSource/Delusion)**: Convenient generative models pythonic wrappers
 
 ## :octicons-versions-16: Feeds
 
