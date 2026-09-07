@@ -87,6 +87,7 @@ Send my resume file below to verify its origin and status, using a local hash ch
     }
 
     release("1418a3da2c6cab33ae5e2b65cdb6abb9e92398c56a0e9e6c89da20b7b669e378", prototypeHashes);
+    release("5873e9375b872d308a68fc2f4cbb450567b7f5b5a4c3cc377ec60521d7efff63", prototypeHashes);
 
     document.getElementById("file-upload").addEventListener("change", async (input) => {
         const file = input.target.files[0];
