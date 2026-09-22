@@ -11,8 +11,6 @@ nav = [
   ]},
   {Blog = [
     "blog/index.md",
-    "blog/minimalism.md",
-    "blog/money.md",
   ]},
   {Projects=[
     "projects/index.md",
@@ -29,6 +27,10 @@ favicon = "assets/logo.svg"
 logo = "octicons/package-16"
 tag.default = "material/tag"
 admonition.bug = "octicons/heart-fill-16" # Fixme
+
+[project.plugins.blog]
+post_url_format = "{slug}"
+draft = true
 
 [project.extra.tags]
 dummy = "key"
