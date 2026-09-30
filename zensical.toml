@@ -35,6 +35,9 @@ draft = true
 [project.extra.tags]
 dummy = "key"
 
+[project.plugins.social]
+enabled = true
+
 [[project.extra.social]]
 name = "GitHub"
 icon = "fontawesome/brands/github"
