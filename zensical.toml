@@ -2,6 +2,7 @@
 site_name = "Tremeschin"
 site_url = "https://tremeschin.com/"
 repo_url = "https://github.com/Tremeschin/"
+extra_css = ["main.css"]
 docs_dir = "website"
 nav = [
   {Home = [
